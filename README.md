@@ -33,8 +33,7 @@ const sakibul = {
 - 🥉 **Programming Contestant** - NCPC 2023 (JU), AUST IUPC 2025
 - 🥈 **Runners-up** - AUST Code Refactoring Contest: Fall '23, Spring '24
 - 🥈 **Intra AUST Programming: Runners-up** (Junior) Spring '23, **8th** (Spring '24), **11th** (Fall '23)
-- 🏅 **2nd Runner Up** - Resolute 2.0, Intra University Idea Generation Competition organized by AUST CDC
-- 🏅 **10th** - AUST Quiz Competition (Fall '22)
+
 
 </details>
 
