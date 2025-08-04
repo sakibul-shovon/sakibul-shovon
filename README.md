@@ -47,7 +47,7 @@ My_Profile:
 <table>
 <tr>
 <td align="center">
-<h3>📄 Complete Resume</h3>
+<h3>📄 Complete CV</h3>
 
 [![Download CV](https://img.shields.io/badge/📄_Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14dDqe65vqCwzzfe3_OJNQx4mFDRwt9fH/view?usp=sharing)
 
@@ -58,21 +58,7 @@ My_Profile:
 
 </div>
 
-<details>
-<summary>🔍 <strong>What's Inside My CV?</strong></summary>
 
-```
-📚 Education & Academic Background
-💼 Professional Experience & Internships  
-🏆 Contest Achievements & Recognition
-💻 Technical Projects & Portfolio
-🛠️ Skills Assessment & Proficiency
-🌟 Extracurricular Activities
-📞 Contact Information & References
-```
-
-
-</details>
 
 ---
 
