@@ -14,7 +14,7 @@
 <div align="center">
 
 ```yaml
-Developer_Profile:
+My_Profile:
   name: "Sakibul Hassan Shovon"
   location: "🇧🇩 Dhaka, Bangladesh"
   pronouns: "he/him"
@@ -143,9 +143,9 @@ Developer_Profile:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sakibulhassanshovon05)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sh_shovon_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shovon0005)
 
 </div>
