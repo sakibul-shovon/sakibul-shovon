@@ -1,11 +1,11 @@
-# 👋 Hey there! I'm Sakibul Hassan Shovon
+# Hey there! I'm Sakibul Hassan Shovon
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
-🚀 **Passionate about Competitive Programming & Full-Stack Web Development**  
-💡 **Mixing logic with creativity** — whether it's solving algorithmic challenges or building scalable web applications!
+ **Passionate about Competitive Programming & Full-Stack Web Development**  
+**Mixing logic with creativity** — whether it's solving algorithmic challenges or building scalable web applications!
 
 ---
 
@@ -26,7 +26,6 @@ My_Profile:
     web_development: ["MERN Stack", "React.js", "Full-Stack"]
     languages: ["C++", "JavaScript", "Python", "Java"]
   
-  life_motto: "💡 Code is art, algorithms are poetry!"
   
   currently_seeking:
     - hackathon_teammates: true
@@ -34,7 +33,7 @@ My_Profile:
     - exciting_projects: true
     - learning_opportunities: always
   
-  fun_fact: "🎨 I see every algorithm as a masterpiece waiting to be crafted"
+  
 ```
 
 </div>
@@ -72,12 +71,6 @@ My_Profile:
 📞 Contact Information & References
 ```
 
-**Why Download My CV?**
-- 📊 Detailed project breakdowns with tech stacks
-- 📈 Complete contest history and rankings  
-- 🎯 Specific skill levels and certifications
-- 📱 Contact info for direct communication
-- 🔗 Links to all my work and profiles
 
 </details>
 
