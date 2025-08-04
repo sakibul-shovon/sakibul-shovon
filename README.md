@@ -11,17 +11,75 @@
 
 ## 🎯 Quick Overview
 
-```javascript
-const sakibul = {
-    pronouns: "he/him",
-    location: "Dhaka, Bangladesh",
-    currentFocus: ["Competitive Programming", "MERN Stack", "React.js"],
-    funFact: "I see code as art — creative, logical, and limitless!",
-    lookingFor: "Exciting collaborations and hackathon teammates"
-};
+<div align="center">
+
+```yaml
+Developer_Profile:
+  name: "Sakibul Hassan Shovon"
+  location: "🇧🇩 Dhaka, Bangladesh"
+  pronouns: "he/him"
+  
+  current_status: "🚀 Building & Competing"
+  
+  expertise:
+    competitive_programming: ["Algorithms", "Data Structures", "Contest Solving"]
+    web_development: ["MERN Stack", "React.js", "Full-Stack"]
+    languages: ["C++", "JavaScript", "Python", "Java"]
+  
+  life_motto: "💡 Code is art, algorithms are poetry!"
+  
+  currently_seeking:
+    - hackathon_teammates: true
+    - open_source_collaborations: true
+    - exciting_projects: true
+    - learning_opportunities: always
+  
+  fun_fact: "🎨 I see every algorithm as a masterpiece waiting to be crafted"
 ```
 
-📄 **[View My Complete CV](https://drive.google.com/file/d/14dDqe65vqCwzzfe3_OJNQx4mFDRwt9fH/view?usp=sharing)**
+</div>
+
+---
+
+## 📋 My Complete CV
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h3>📄 Complete Resume</h3>
+
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14dDqe65vqCwzzfe3_OJNQx4mFDRwt9fH/view?usp=sharing)
+
+*Everything you need to know about my journey*
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary>🔍 <strong>What's Inside My CV?</strong></summary>
+
+```
+📚 Education & Academic Background
+💼 Professional Experience & Internships  
+🏆 Contest Achievements & Recognition
+💻 Technical Projects & Portfolio
+🛠️ Skills Assessment & Proficiency
+🌟 Extracurricular Activities
+📞 Contact Information & References
+```
+
+**Why Download My CV?**
+- 📊 Detailed project breakdowns with tech stacks
+- 📈 Complete contest history and rankings  
+- 🎯 Specific skill levels and certifications
+- 📱 Contact info for direct communication
+- 🔗 Links to all my work and profiles
+
+</details>
 
 ---
 
@@ -33,7 +91,6 @@ const sakibul = {
 - 🥉 **Programming Contestant** - NCPC 2023 (JU), AUST IUPC 2025
 - 🥈 **Runners-up** - AUST Code Refactoring Contest: Fall '23, Spring '24
 - 🥈 **Intra AUST Programming: Runners-up** (Junior) Spring '23, **8th** (Spring '24), **11th** (Fall '23)
-
 
 </details>
 
@@ -194,9 +251,7 @@ const sakibul = {
 
 ---
 
-## 🚀 Featured Projects
 
-*Coming Soon! Currently working on some exciting projects that I'll showcase here.*
 
 ---
 
