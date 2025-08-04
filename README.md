@@ -19,7 +19,7 @@ My_Profile:
   location: "🇧🇩 Dhaka, Bangladesh"
   pronouns: "he/him"
   
-  current_status: "🚀 Building & Competing"
+  current_status: "Building & Competing"
   
   expertise:
     competitive_programming: ["Algorithms", "Data Structures", "Contest Solving"]
