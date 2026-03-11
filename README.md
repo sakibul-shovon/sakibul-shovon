@@ -92,7 +92,7 @@ My_Profile:
 
 - **Finalist** — HULT Prize at AUST, 2026
 - **2nd Runner-Up** — Resolute 2.0, Intra University Idea Generation Competition by AUST Career Development Club
-- **10th** — AUST Quiz Competition (Fall '22)
+- **Finalist** — AUST Quiz Competition 
 - **Regional Champion** — National High School Programming Contest (NHSPC) 2017
 - **Regional Champion** — Bangladesh Math Olympiad (BDMO) & Biology Olympiad (BDBO) 2019
 
