@@ -1,10 +1,8 @@
 <div align="center">
-
-# Hey there! I'm Sakibul Hassan Shovon
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakibul%20Hassan%20Shovon&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Full-Stack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Solutions%20Architect%20|%20Business%20Enthusiast&descSize=14&descAlignY=52" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
-</div>
 
 **Passionate about Competitive Programming & Full-Stack Web Development**  
 **Mixing logic with creativity** — whether it's solving algorithmic challenges or building scalable web applications!
@@ -98,6 +96,67 @@ My_Profile:
 
 </details>
 
+<div align="center">
+
+### Hackathon & Contest Journey
+
+```mermaid
+timeline
+    title Hackathon & Contest Journey
+    2017 : Regional Champion NHSPC
+    2019 : Regional Champion BDMO & BDBO
+    2023 : NCPC Onsite (Rank 194)
+    2024 : 1st Runner-Up Code Refactoring (Carnival 4.0)
+         : 1st Runner-Up Intra AUST PC (Carnival 3.0)
+    2025 : 2nd Runner-Up Hackathon (Carnival 6.0)
+         : 2nd Runner-Up Code Refactoring (Carnival 5.0)
+         : Top 50 CUET Micro-Ops Hackathon
+         : Rank 5 BUBT InnovateX Hackathon
+         : ICPC Dhaka Regional (Rank 265)
+    2026 : HULT Prize Finalist
+         : Dynamic Solution Innovators Attachment
+```
+
+</div>
+
+---
+
+## Experience
+
+<table>
+<tr><td>
+
+### Industrial Attachment Student
+**Dynamic Solution Innovators** · `Apr 2026` · Dhaka, Bangladesh
+
+- Completed a 2-week program working through the full SDLC in an Agile/Scrum team
+- Worked with CI/CD pipelines, Git workflows, and version control best practices
+- Attended an AI workshop on how industry teams integrate AI into dev workflows
+- Joined technical sessions on backend architecture, microservices, and cloud deployment
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### Assistant Head of IT and Innovation
+**AUST Programming and Informatics Club** · `Jan 2026 – Present`
+
+- Oversee technical operations, web development, and digital infrastructure for all club activities
+- Built a React-based analytics dashboard tracking 200+ students' performance across Codeforces and AtCoder
+- Coordinated 5+ programming contests with 300+ participants, leading a 15-member volunteer team
+
+</td></tr>
+</table>
+
+---
+
+## Education
+
+🎓 **B.Sc. in Computer Science & Engineering** · *Ahsanullah University of Science and Technology (AUST)*  
+`2022 – 2026 (Expected)` · Dhaka, Bangladesh
+
 ---
 
 ## What I'm Up To
@@ -112,7 +171,6 @@ My_Profile:
 - React.js Deep Dive
 - Open Source Contributions
 
-
 </td>
 <td>
 
@@ -122,50 +180,18 @@ My_Profile:
 - PostgreSQL & MongoDB Optimization
 - System Design Concepts
 
-
 </td>
 </tr>
 </table>
 
-**Open to Collaborate On:**
-- Innovative side projects solving real-world problems
-- Open-source contributions (React / MERN Stack / CP)
-- Hackathons & competitive programming team challenges
-- Educational content creation
+ **Currently Building:** An LMS-based software platform & exploring advanced AI integration into dev workflows
 
----
+> 💡 **Open to collaborate on:** `Hackathons` `Open Source` `MERN Projects` `CP Teams` `Startup Ideas`
 
+### Latest Activity
 
-
-## Experience
-
-**Industrial Attachment Student** · *Dynamic Solution Innovators* · `Apr 2026` · Dhaka, Bangladesh
-
-- Completed a 2-week program working through the full SDLC in an Agile/Scrum team
-- Worked with CI/CD pipelines, Git workflows, and version control best practices
-- Attended an AI workshop on how industry teams integrate AI into dev workflows
-- Joined technical sessions on backend architecture, microservices, and cloud deployment
-
-**Assistant Head of IT and Innovation** · *AUST Programming and Informatics Club* · `Jan 2026 – Present`
-
-- Oversee technical operations, web development, and digital infrastructure for all club activities
-- Built a React-based analytics dashboard tracking student performance across Codeforces and AtCoder
-- Coordinate programming contests, lead volunteer teams, and manage corporate sponsorship partnerships
-
-
-
----
-
-## Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sakibulhassanshovon05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sh_shovon_)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shovon0005)
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -232,10 +258,14 @@ My_Profile:
 
 <div align="center">
 
-### Platform Profiles
+### Platform Profiles & Ratings
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_shovon_)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/_shovon05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sakibul-shovon)
+
+![Codeforces Rating](https://cp-logo.vercel.app/codeforces/_shovon_)
+![AtCoder Rating](https://cp-logo.vercel.app/atcoder/_shovon05)
 
 </div>
 
@@ -281,15 +311,22 @@ My_Profile:
 
 ---
 
-## Philosophy
+## Let's Connect!
 
-> *"Code is poetry written in logic. Every algorithm tells a story, every function serves a purpose, and every project solves a real problem."*
+<div align="center">
 
-**My Mission:** To bridge the gap between competitive programming excellence and real-world software development, creating solutions that are both algorithmically sound and user-centric.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sakibulhassanshovon05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sh_shovon_)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shovon0005)
+
+</div>
 
 ---
 
-## Profile Views
+> *"Code is poetry written in logic. Every algorithm tells a story."* 🚀
+
+---
 
 <div align="center">
 
@@ -298,21 +335,9 @@ My_Profile:
 
 </div>
 
----
-
-## Let's Build Something Amazing Together!
-
-Whether you're interested in:
-- **Competitive Programming** discussions and practice
-- **Web Development** collaborations
-- **Open Source** contributions
-- **Startup Ideas** and hackathons
-
-I'm always excited to connect with fellow developers and problem solvers!
-
-**Feel free to reach out** — let's turn ideas into reality!
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sakibul-shovon/sakibul-shovon/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
