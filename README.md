@@ -164,12 +164,6 @@ My_Profile:
 
 > 💡 **Open to collaborate on:** `Hackathons` `Open Source` `MERN Projects` `CP Teams` `Startup Ideas`
 
-### Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## Tech Arsenal
 
