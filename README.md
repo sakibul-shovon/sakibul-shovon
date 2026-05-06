@@ -96,44 +96,6 @@ My_Profile:
 
 </details>
 
-<div align="center">
-
-### Hackathon & Contest Journey
-
-```mermaid
-gantt
-    title Hackathon & Contest Journey
-    dateFormat YYYY
-    axisFormat %Y
-
-    section 2026
-    HULT Prize Finalist           :done, 2026, 1y
-    DSI Industrial Attachment     :done, 2026, 1y
-
-    section 2025
-    ICPC Dhaka Regional (Rank 265)        :done, 2025, 1y
-    BUBT InnovateX Hackathon (Rank 5)     :done, 2025, 1y
-    CUET Micro-Ops Hackathon (Top 50)     :done, 2025, 1y
-    Carnival 6.0 Hackathon (2nd R-Up)     :done, 2025, 1y
-    Code Refactoring 5.0 (2nd R-Up)       :done, 2025, 1y
-
-    section 2024
-    Code Refactoring 4.0 (1st R-Up)       :done, 2024, 1y
-    Intra AUST PC 3.0 (1st R-Up)          :done, 2024, 1y
-
-    section 2023
-    NCPC Onsite (Rank 194)                :done, 2023, 1y
-
-    section 2019
-    Regional Champion BDMO & BDBO         :done, 2019, 1y
-
-    section 2017
-    Regional Champion NHSPC               :done, 2017, 1y
-```
-
-</div>
-
----
 
 ## Experience
 
