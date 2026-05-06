@@ -101,20 +101,43 @@ My_Profile:
 ### Hackathon & Contest Journey
 
 ```mermaid
-timeline
-    title Hackathon & Contest Journey
-    2017 : Regional Champion NHSPC
-    2019 : Regional Champion BDMO & BDBO
-    2023 : NCPC Onsite (Rank 194)
-    2024 : 1st Runner-Up Code Refactoring (Carnival 4.0)
-         : 1st Runner-Up Intra AUST PC (Carnival 3.0)
-    2025 : 2nd Runner-Up Hackathon (Carnival 6.0)
-         : 2nd Runner-Up Code Refactoring (Carnival 5.0)
-         : Top 50 CUET Micro-Ops Hackathon
-         : Rank 5 BUBT InnovateX Hackathon
-         : ICPC Dhaka Regional (Rank 265)
-    2026 : HULT Prize Finalist
-         : Dynamic Solution Innovators Attachment
+graph TD
+    A["2017"] -->|Regional Champion| B["NHSPC"]
+    B --> C["2019"]
+    C -->|Regional Champion| D["BDMO & BDBO"]
+    D --> E["2023"]
+    E -->|Rank 194| F["NCPC Onsite"]
+    F --> G["2024"]
+    G -->|1st Runner-Up| H["Code Refactoring - Carnival 4.0"]
+    G -->|1st Runner-Up| I["Intra AUST PC - Carnival 3.0"]
+    I --> J["2025"]
+    J -->|2nd Runner-Up| K["Hackathon - Carnival 6.0"]
+    J -->|2nd Runner-Up| L["Code Refactoring - Carnival 5.0"]
+    J -->|Top 50| M["CUET Micro-Ops Hackathon"]
+    J -->|Rank 5| N["BUBT InnovateX Hackathon"]
+    J -->|Rank 265| O["ICPC Dhaka Regional"]
+    O --> P["2026"]
+    P -->|Finalist| Q["HULT Prize at AUST"]
+    P -->|Attachment| R["Dynamic Solution Innovators"]
+
+    style A fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style C fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style E fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style G fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style J fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style P fill:#ff6b6b,stroke:#fff,color:#fff,font-weight:bold
+    style B fill:#4ecdc4,stroke:#fff,color:#fff
+    style D fill:#4ecdc4,stroke:#fff,color:#fff
+    style F fill:#45b7d1,stroke:#fff,color:#fff
+    style H fill:#96ceb4,stroke:#fff,color:#fff
+    style I fill:#96ceb4,stroke:#fff,color:#fff
+    style K fill:#a29bfe,stroke:#fff,color:#fff
+    style L fill:#a29bfe,stroke:#fff,color:#fff
+    style M fill:#a29bfe,stroke:#fff,color:#fff
+    style N fill:#a29bfe,stroke:#fff,color:#fff
+    style O fill:#a29bfe,stroke:#fff,color:#fff
+    style Q fill:#fd79a8,stroke:#fff,color:#fff
+    style R fill:#fd79a8,stroke:#fff,color:#fff
 ```
 
 </div>
