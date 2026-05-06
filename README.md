@@ -100,22 +100,34 @@ My_Profile:
 
 ### Hackathon & Contest Journey
 
-| Year | Achievement |
-|:----:|:------------|
-| **2026** | Finalist — HULT Prize at AUST |
-| | Industrial Attachment — Dynamic Solution Innovators |
-| **2025** | Rank 265 — ICPC Dhaka Regional Onsite |
-| | Rank 5 — BUBT InnovateX Hackathon |
-| | Top 50 — CUET Micro-Ops Hackathon |
-| | 2nd Runner-Up — AUST CSE Carnival 6.0 Hackathon |
-| | 2nd Runner-Up — Code Refactoring (Carnival 5.0) |
-| | Rank 67 — BUBT IUCPC |
-| | Rank 106 — AUST IUPC |
-| **2024** | 1st Runner-Up — Code Refactoring (Carnival 4.0) |
-| | 1st Runner-Up — Intra AUST PC (Carnival 3.0) |
-| **2023** | Rank 194 — NCPC Onsite |
-| **2019** | Regional Champion — BDMO & BDBO |
-| **2017** | Regional Champion — NHSPC |
+```mermaid
+graph LR
+    Y1["2026"] --> A1["HULT Prize Finalist · DSI Attachment"]
+    Y2["2025"] --> A2["ICPC Regional · InnovateX · CUET · Carnival 6.0 & 5.0"]
+    Y3["2024"] --> A3["1st Runner-Up — Code Refactoring & Intra AUST PC"]
+    Y4["2023"] --> A4["NCPC Onsite — Rank 194"]
+    Y5["2019"] --> A5["Regional Champion — BDMO & BDBO"]
+    Y6["2017"] --> A6["Regional Champion — NHSPC"]
+
+    Y1 ~~~ Y2
+    Y2 ~~~ Y3
+    Y3 ~~~ Y4
+    Y4 ~~~ Y5
+    Y5 ~~~ Y6
+
+    style Y1 fill:#ff6b6b,stroke:none,color:#fff,font-weight:bold
+    style Y2 fill:#a29bfe,stroke:none,color:#fff,font-weight:bold
+    style Y3 fill:#00b894,stroke:none,color:#fff,font-weight:bold
+    style Y4 fill:#fdcb6e,stroke:none,color:#333,font-weight:bold
+    style Y5 fill:#e17055,stroke:none,color:#fff,font-weight:bold
+    style Y6 fill:#0984e3,stroke:none,color:#fff,font-weight:bold
+    style A1 fill:#2d3436,stroke:#ff6b6b,color:#dfe6e9
+    style A2 fill:#2d3436,stroke:#a29bfe,color:#dfe6e9
+    style A3 fill:#2d3436,stroke:#00b894,color:#dfe6e9
+    style A4 fill:#2d3436,stroke:#fdcb6e,color:#dfe6e9
+    style A5 fill:#2d3436,stroke:#e17055,color:#dfe6e9
+    style A6 fill:#2d3436,stroke:#0984e3,color:#dfe6e9
+```
 
 </div>
 
