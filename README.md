@@ -139,11 +139,20 @@ My_Profile:
 
 ## Experience
 
+**Industrial Attachment Student** · *Dynamic Solution Innovators* · `Apr 2026` · Dhaka, Bangladesh
+
+- Completed a 2-week program working through the full SDLC in an Agile/Scrum team
+- Worked with CI/CD pipelines, Git workflows, and version control best practices
+- Attended an AI workshop on how industry teams integrate AI into dev workflows
+- Joined technical sessions on backend architecture, microservices, and cloud deployment
+
 **Assistant Head of IT and Innovation** · *AUST Programming and Informatics Club* · `Jan 2026 – Present`
 
 - Oversee technical operations, web development, and digital infrastructure for all club activities
 - Built a React-based analytics dashboard tracking student performance across Codeforces and AtCoder
 - Coordinate programming contests, lead volunteer teams, and manage corporate sponsorship partnerships
+
+
 
 ---
 
