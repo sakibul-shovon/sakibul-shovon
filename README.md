@@ -65,6 +65,9 @@ My_Profile:
 
 <details>
 <summary><strong>Hackathons & Refactoring Contests</strong></summary>
+
+<br>
+
 - **Global Rank 147** — HackerRank Orchestrate Hackathon 2026 *(Solo)*
 - **Rank 5** — BUBT InnovateX Hackathon 2025 *(TestCase Titans)*
 - **Top 50 (Finals)** — CUET Micro-Ops Hackathon 2025 *(TestCase Titans)*
@@ -76,6 +79,8 @@ My_Profile:
 
 <details>
 <summary><strong>Competitive Programming</strong></summary>
+
+<br>
 
 - **Rank 265** — ICPC Dhaka Regional Site 2025 Onsite *(AUST Bumblebee)*
 - **Rank 67** — BUBT IUCPC National Programming Contest 2025 *(AUST Bumblebee)*
