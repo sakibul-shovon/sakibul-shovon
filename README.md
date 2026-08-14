@@ -68,8 +68,10 @@ My_Profile:
 
 <br>
 
-- **Global Rank 147** — HackerRank Orchestrate Hackathon 2026 *(Solo)*
+- **Global Rank 123** — HackerRank Orchestrate Hackathon 2026 *(Solo)*
 - **Rank 5** — BUBT InnovateX Hackathon 2025 *(TestCase Titans)*
+- **Top 10** — Techathon Nationals & Rover Summit Hackathon 2026 *(TestCase Titans)*
+- **Rank 18** — SciBlitz AI Hackathon (Nationwide) 2026 *(Solo)*
 - **Top 50 (Finals)** — CUET Micro-Ops Hackathon 2025 *(TestCase Titans)*
 - **2nd Runner-Up** — AUST CSE Carnival 6.0 Hackathon 2025 *(TestCase Titans)*
 - **2nd Runner-Up** — Code Refactoring Contest (Carnival 5.0) 2025 *(TestCase Titans)*
