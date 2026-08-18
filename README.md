@@ -50,7 +50,7 @@ My_Profile:
 <td align="center">
 <h3>Complete CV</h3>
 
-[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rDY3VofdtcI-p4dpDMjpH10ni6gV3SCI/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XsK4UeZo3VCufasALc1wOsYCRX2InyDD/view)
 
 *Everything you need to know about my journey*
 </td>
