@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakibul%20Hassan%20Shovon&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Full-Stack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Solutions%20Architect%20|%20Business%20Enthusiast&descSize=14&descAlignY=52" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakibul%20Hassan%20Shovon&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=AI%2FAgent%20Engineer%20|%20Full-Stack%20Developer%20|%20Competitive%20Programmer%20|%20Solutions%20Architect&descSize=14&descAlignY=52" width="100%"/>
 </div>
 
 <div align="center">
 
-**Passionate about Competitive Programming & Full-Stack Web Development**  
-**Mixing logic with creativity** — whether it's solving algorithmic challenges or building scalable web applications!
+**Building intelligent AI agents & LLM-powered products that solve real problems**  
+**Mixing logic with creativity** — from agentic systems and RAG pipelines to competitive programming!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shovon--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shovon-portfolio.vercel.app/)
 
@@ -23,17 +23,20 @@ My_Profile:
   location: "Dhaka, Bangladesh"
   pronouns: "he/him"
 
-  current_status: "Building & Competing"
+  current_status: "Building AI Agents & Competing"
+  focus: "AI / Agent Engineering"
 
   expertise:
+    ai_engineering: ["LLM Apps", "AI Agents", "Agentic Workflows", "RAG", "Multi-Agent Systems", "LLM Fine-tuning"]
     competitive_programming: ["Algorithms", "Data Structures", "Contest Solving"]
     web_development: ["MERN Stack", "React.js", "Next.js", "Full-Stack"]
-    languages: ["C++", "JavaScript", "TypeScript", "Python", "Java"]
+    languages: ["Python", "C++", "JavaScript", "TypeScript", "Java"]
 
   currently_seeking:
+    - ai_agent_projects: true
     - hackathon_teammates: true
     - open_source_collaborations: true
-    - exciting_projects: true
+    - research_collaborations: true
     - learning_opportunities: always
 ```
 
@@ -50,7 +53,7 @@ My_Profile:
 <td align="center">
 <h3>Complete CV</h3>
 
-[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1XsK4UeZo3VCufasALc1wOsYCRX2InyDD/view)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bnMZjifNv8SAfCMdVELCdcim_53qfT_e/view)
 
 *Everything you need to know about my journey*
 </td>
@@ -123,12 +126,14 @@ My_Profile:
 <table>
 <tr><td>
 
-### Assistant Head of IT and Innovation
-**AUST Programming and Informatics Club** · `Jan 2026 – Present`
+### Head of IT and Innovation
+**AUST Programming and Informatics Club** · `Aug 2026 – Present`
 
-- Oversee technical operations, web development, and digital infrastructure for all club activities
+- Made key IT and technical decisions across AUSTPIC, from tooling choices to overall technical direction
+- Led the development of AUSTPIC's official website, from planning to deployment
+- Oversaw the club's IT infrastructure, ensuring systems and tools stayed reliable and up to date
 - Built a React-based analytics dashboard tracking 200+ students' performance across Codeforces and AtCoder
-- Coordinated 5+ programming contests with 300+ participants, leading a 15-member volunteer team
+- Mentored junior members on development practices and technical problem-solving
 
 </td></tr>
 </table>
@@ -149,19 +154,19 @@ My_Profile:
 <td>
 
 **Currently Working On:**
-- Advanced Data Structures & Algorithms
-- MERN Stack & Next.js Projects
-- React.js Deep Dive
-- Open Source Contributions
+- Building AI agents & agentic workflows
+- Multi-agent orchestration & RAG systems
+- LLM fine-tuning (small, efficient models)
+- Undergrad thesis on LLM safety
 
 </td>
 <td>
 
 **Learning Journey:**
-- React.js & Next.js Advanced Patterns
-- Express.js & Node.js
-- PostgreSQL & MongoDB Optimization
-- System Design Concepts
+- Agent design patterns & orchestration
+- Retrieval-Augmented Generation (RAG)
+- Evaluation & reliability of AI agents
+- Serving & deploying LLMs (MLOps)
 
 </td>
 </tr>
@@ -169,12 +174,31 @@ My_Profile:
 
  **Currently Building:** An LMS-based software platform & exploring advanced AI integration into dev workflows
 
-> 💡 **Open to collaborate on:** `Hackathons` `Open Source` `MERN Projects` `CP Teams` `Startup Ideas`
+> 💡 **Open to collaborate on:** `AI Agents` `Research` `Hackathons` `Open Source` `Startup Ideas`
 
 
 ## Tech Arsenal
 
 <div align="center">
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### LLMs, Agents & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-005571.svg?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
