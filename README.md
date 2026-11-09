@@ -1,239 +1,223 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakibul%20Hassan%20Shovon&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=28&desc=AI%2FAgent%20Engineer%20|%20Full-Stack%20Developer%20|%20Competitive%20Programmer%20|%20Solutions%20Architect&descSize=14&descAlignY=52" width="100%"/>
-</div>
+<!-- Single-file profile README: no local image assets required. -->
 
 <div align="center">
 
-**Building intelligent AI agents & LLM-powered products that solve real problems**  
-**Mixing logic with creativity** — from agentic systems and RAG pipelines to competitive programming!
+<!-- Upload shovon-github-banner.gif through GitHub's Markdown editor and paste the generated github.com/user-attachments URL below. -->
+<img width="1100" height="265" alt="shovon-github-banner" src="https://github.com/user-attachments/assets/268e4b2d-2af9-4181-a55e-10bb75d4300f" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shovon--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shovon-portfolio.vercel.app/)
 
-</div>
+<p><strong>ICPC Regionalist | Hackathon Winner | CSE @ AUST</strong></p>
+<p><strong>Building intelligent AI agents & LLM-powered products that solve real problems.</strong></p>
 
----
-
-## Quick Overview
-
-<div align="center">
-
-```yaml
-My_Profile:
-  name: "Sakibul Hassan Shovon"
-  location: "Dhaka, Bangladesh"
-  pronouns: "he/him"
-
-  current_status: "Building AI Agents & Competing"
-  focus: "AI / Agent Engineering"
-
-  expertise:
-    ai_engineering: ["LLM Apps", "AI Agents", "Agentic Workflows", "RAG", "Multi-Agent Systems", "LLM Fine-tuning"]
-    competitive_programming: ["Algorithms", "Data Structures", "Contest Solving"]
-    web_development: ["MERN Stack", "React.js", "Next.js", "Full-Stack"]
-    languages: ["Python", "C++", "JavaScript", "TypeScript", "Java"]
-
-  currently_seeking:
-    - ai_agent_projects: true
-    - hackathon_teammates: true
-    - open_source_collaborations: true
-    - research_collaborations: true
-    - learning_opportunities: always
-```
+<p>
+<a href="https://shovon-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sakibul-hassan-shovon/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shovon.cse50@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://drive.google.com/file/d/1bnMZjifNv8SAfCMdVELCdcim_53qfT_e/view"><img src="https://img.shields.io/badge/CV-View%20Resume-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="CV" /></a>
+</p>
 
 </div>
 
 ---
 
-## My Complete CV
+## About Me
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
-<h3>Complete CV</h3>
-
-[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1bnMZjifNv8SAfCMdVELCdcim_53qfT_e/view)
-
-*Everything you need to know about my journey*
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <h3>Engineer by craft. Product-minded by approach.</h3>
+      <p><strong>Based in Dhaka, Bangladesh</strong><br/>
+      B.Sc. in Computer Science &amp; Engineering · AUST<br/>
+      Head of IT &amp; Innovation · AUSTPIC</p>
+      <hr/>
+      <p><strong>WHAT I BUILD</strong><br/>
+      AI agents, RAG pipelines &amp; reliable LLM-powered workflows<br/>
+      Full-stack systems from requirements to deployment</p>
+      <p><strong>BEYOND THE CODE</strong><br/>
+      Product thinking · Business problem-solving · Responsible AI<br/>
+      Multilingual AI safety research · Technical leadership</p>
+      <p><strong>OPEN TO</strong><br/>
+      AI / Product Engineering · Open Source · Applied Research · Collaboration</p>
+    </td>
+  </tr>
 </table>
 
 </div>
+
+I enjoy the entire journey from **understanding a problem** and making technical trade-offs to **shipping, validating, and presenting a working solution**. My work sits at the intersection of **AI engineering, product development, business value, and responsible innovation**.
+
+## Impact at a Glance
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%"><h3>National 2nd Runner-Up</h3><strong>Robi Data Privacy Avengers 2026</strong><br/>700+ teams nationwide</td>
+    <td align="center" width="50%"><h3>Global #80 / 3,062</h3><strong>HackerRank Orchestrate 2026</strong><br/>Top 2.6% globally</td>
+  </tr>
+  <tr>
+    <td align="center"><h3>31K+ Page Loads</h3><strong>AUST CSE Carnival 8.0</strong><br/>460 registrations / 557 participants</td>
+    <td align="center"><h3>ICPC Regionalist</h3><strong>Dhaka Regional 2025 Onsite</strong><br/>1,000+ programming problems solved across judges</td>
+  </tr>
+</table>
+</div>
+
+---
+
+## Featured Projects
+
+### [01 / AUST CSE Carnival 8.0 — Full-Stack Event Platform](https://www.austcsecarnival.com/)
+
+**Lead Developer & Organizer** | `Next.js` `FastAPI` `PostgreSQL` `Docker`
+
+Led end-to-end development for a deployed, multi-segment event platform, covering participant registration, team management, judging, live quiz interactions, event booking, and administrative tools. Worked closely with organizers to translate operational requirements into usable software.
+
+**Impact:** `460 registrations` · `557 participants` · `31K+ page loads`
+
+[Explore the live platform](https://www.austcsecarnival.com/)
+
+### 02 / JIMMA — Consent-Aware AI Data Governance
+
+**National 2nd Runner-Up, Robi Data Privacy Avengers 2026** | `Responsible AI` `Privacy Engineering` `Product Thinking`
+
+I independently designed and built **JIMMA**, the functional AI data governance prototype for Team Sed_People at Robi Data Privacy Avengers 2026. I implemented consent-aware decisions, purpose-based access control, data minimization, and auditable AI access logic; validated the prototype against **40 synthetic test scenarios**; and presented the solution during the competition. The national award was a **team achievement**, while the prototype's engineering and implementation were my work.
+
+**Scope:** Competition prototype with synthetic data, **not a production deployment**.
+
+### 03 / Support Triage Agent — Retrieval-Grounded AI Workflow
+
+**HackerRank Orchestrate** | `AI Agents` `Hybrid Retrieval` `RAG` `Evaluation`
+
+Built an autonomous triage pipeline using domain routing, **BM25 + semantic retrieval**, rule-based safeguards, LLM reasoning, confidence assessment, and grounding checks. Evaluated the workflow on **29 support tickets** with a knowledge base of approximately **770 documents**.
+
+**Engineering focus:** Reliability, measurable evaluation, transparent decisions, and handling failures beyond a basic LLM wrapper.
+
+[View source repository](https://github.com/sakibul-shovon/hackerrank-orchestrate-may26)
+
 
 ---
 
 ## Achievements & Recognition
 
-<details>
-<summary><strong>Hackathons & Refactoring Contests</strong></summary>
+<sub>Open each category to explore the full competition history.</sub>
 
-<br>
+<details open>
+<summary><strong>Featured Achievements — National & Global Recognition</strong></summary>
 
-- **Global Rank 123** — HackerRank Orchestrate Hackathon 2026 *(Solo)*
-- **Rank 5** — BUBT InnovateX Hackathon 2025 *(TestCase Titans)*
-- **Top 10** — Techathon Nationals & Rover Summit Hackathon 2026 *(TestCase Titans)*
-- **Rank 18** — SciBlitz AI Hackathon (Nationwide) 2026 *(Solo)*
-- **Top 50 (Finals)** — CUET Micro-Ops Hackathon 2025 *(TestCase Titans)*
-- **2nd Runner-Up** — AUST CSE Carnival 6.0 Hackathon 2025 *(TestCase Titans)*
-- **2nd Runner-Up** — Code Refactoring Contest (Carnival 5.0) 2025 *(TestCase Titans)*
-- **1st Runner-Up** — Code Refactoring Contest (Carnival 4.0) 2024 *(TestCase Titans)*
-
-</details>
-
-<details>
-<summary><strong>Competitive Programming</strong></summary>
-
-<br>
-
-- **Rank 265** — ICPC Dhaka Regional Site 2025 Onsite *(AUST Bumblebee)*
-- **Rank 67** — BUBT IUCPC National Programming Contest 2025 *(AUST Bumblebee)*
-- **Rank 106** — AUST IUPC National Programming Contest 2025 *(AUST Bumblebee)*
-- **Rank 194** — NCPC Onsite 2023 Hosted by JU *(AUST TestCase Titans)*
-- **1st Runner-Up** — Intra AUST Programming Contest (Carnival 3.0, Junior) 2024 *(TestCase Titans)*
+- **2nd Runner-Up** — Robi Data Privacy Avengers 2026 (**700+ registered teams**; Team Sed_People)
+- **Global Rank #80 / 3,062** — HackerRank Orchestrate, September 2026 (**Top 2.6%**; 1st from Bangladesh)
+- **Global Rank #123 / 1,983** — HackerRank Orchestrate, August 2026 (solo)
+- **Top 5** — INNOVATEX National Hackathon 2025 (**160+ teams**)
+- **Top 10 Finalist** — Techathon Nationals & Rover Summit Hackathon 2026 (**250+ teams**)
+- **ICPC Dhaka Regional 2025** — Onsite Participant (AUST Bumblebee)
+- **Top 6 Finalist** — Hult Prize at AUST 2026 (**60+ teams**)
 
 </details>
 
 <details>
-<summary><strong>Others</strong></summary>
+<summary><strong>Hackathons & Refactoring Contests — Full History</strong></summary>
 
-- **Finalist** — HULT Prize at AUST, 2026
-- **2nd Runner-Up** — Resolute 2.0, Intra University Idea Generation Competition by AUST Career Development Club
-- **Finalist** — AUST Quiz Competition 
+- **Global Rank #80 / 3,062** — HackerRank Orchestrate 2026, September (solo; Top 2.6%)
+- **Global Rank #123 / 1,983** — HackerRank Orchestrate 2026, August (solo)
+- **Rank 5** — BUBT InnovateX Hackathon 2025 (TestCase Titans)
+- **Top 10** — Techathon Nationals & Rover Summit Hackathon 2026 (TestCase Titans)
+- **Rank 18** — SciBlitz AI Hackathon 2026 (nationwide; solo)
+- **Top 50 (Finals)** — CUET Micro-Ops Hackathon 2025 (TestCase Titans)
+- **2nd Runner-Up** — AUST CSE Carnival 6.0 Hackathon 2025 (TestCase Titans)
+- **2nd Runner-Up** — Code Refactoring Contest, AUST CSE Carnival 5.0 (2025; TestCase Titans)
+- **1st Runner-Up** — Code Refactoring Contest, AUST CSE Carnival 4.0 (2024; TestCase Titans)
+
+</details>
+
+<details>
+<summary><strong>Competitive Programming — Contest Results</strong></summary>
+
+- **Rank 265** — ICPC Dhaka Regional 2025 Onsite (AUST Bumblebee)
+- **Rank 67** — BUBT IUCPC National Programming Contest 2025 (AUST Bumblebee)
+- **Rank 106** — AUST IUPC National Programming Contest 2025 (AUST Bumblebee)
+- **Rank 194** — NCPC Onsite 2023, hosted by JU (AUST TestCase Titans)
+- **1st Runner-Up** — Intra-AUST Programming Contest, Junior Category, Carnival 3.0 (2024)
+
+</details>
+
+<details>
+<summary><strong>Innovation, Entrepreneurship & Other Recognition</strong></summary>
+
+- **Finalist, Top 6** — Hult Prize at AUST 2026
+- **2nd Runner-Up** — Resolute 2.0, AUST Career Development Club Idea Generation Competition
+- **Finalist** — AUST Quiz Competition
 - **Regional Champion** — National High School Programming Contest (NHSPC) 2017
-- **Regional Champion** — Bangladesh Math Olympiad (BDMO) & Biology Olympiad (BDBO) 2019
+- **Regional Champion** — Bangladesh Math Olympiad (BDMO) 2019
+- **Regional Champion** — Bangladesh Biology Olympiad (BDBO) 2019
 
 </details>
 
-
-## Experience
-
-<table>
-<tr><td>
-
-### Industrial Attachment Student
-**Dynamic Solution Innovators** · `Apr 2026` · Dhaka, Bangladesh
-
-- Completed a 2-week program working through the full SDLC in an Agile/Scrum team
-- Worked with CI/CD pipelines, Git workflows, and version control best practices
-- Attended an AI workshop on how industry teams integrate AI into dev workflows
-- Joined technical sessions on backend architecture, microservices, and cloud deployment
-
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-
-### Head of IT and Innovation
-**AUST Programming and Informatics Club** · `Aug 2026 – Present`
-
-- Made key IT and technical decisions across AUSTPIC, from tooling choices to overall technical direction
-- Led the development of AUSTPIC's official website, from planning to deployment
-- Oversaw the club's IT infrastructure, ensuring systems and tools stayed reliable and up to date
-- Built a React-based analytics dashboard tracking 200+ students' performance across Codeforces and AtCoder
-- Mentored junior members on development practices and technical problem-solving
-
-</td></tr>
-</table>
-
 ---
 
-## Education
-
-🎓 **B.Sc. in Computer Science & Engineering** · *Ahsanullah University of Science and Technology (AUST)*  
-`2022 – 2026 (Expected)` · Dhaka, Bangladesh
-
----
-
-## What I'm Up To
+## Experience & Leadership
 
 <table>
-<tr>
-<td>
-
-**Currently Working On:**
-- Building AI agents & agentic workflows
-- Multi-agent orchestration & RAG systems
-- LLM fine-tuning (small, efficient models)
-- Undergrad thesis on LLM safety
-
-</td>
-<td>
-
-**Learning Journey:**
-- Agent design patterns & orchestration
-- Retrieval-Augmented Generation (RAG)
-- Evaluation & reliability of AI agents
-- Serving & deploying LLMs (MLOps)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Head of IT & Innovation</h3>
+      <strong>AUST Programming and Informatics Club (AUSTPIC)</strong><br/>
+      <code>Aug 2026 – Present</code><br/><br/>
+      Contribute to technical direction, software delivery, infrastructure decisions, team coordination, and mentoring student developers.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Industrial Attachment</h3>
+      <strong>Dynamic Solution Innovators (DSi)</strong><br/>
+      <code>Apr 2026</code><br/><br/>
+      Completed a two-week industrial attachment with hands-on exposure to full-stack development, team workflows, and software product engineering.
+    </td>
+  </tr>
 </table>
 
- **Currently Building:** An LMS-based software platform & exploring advanced AI integration into dev workflows
+## Research & What I'm Exploring
 
-> 💡 **Open to collaborate on:** `AI Agents` `Research` `Hackathons` `Open Source` `Startup Ideas`
+- **AI agent reliability:** Planning, retrieval, verification, safety checks, and evaluation under constraints.
+- **Multilingual AI safety:** Experiments involving Bengali, English, Banglish, and code-switched prompt-injection behavior.
+- **Product-minded engineering:** Turning unclear requirements into working systems while considering user needs, governance, and measurable outcomes.
 
+**Education:** B.Sc. in Computer Science & Engineering, Ahsanullah University of Science and Technology (AUST), **2023–present**.
+
+---
 
 ## Tech Arsenal
 
 <div align="center">
 
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+### AI, LLMs & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### LLMs, Agents & GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-005571.svg?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Languages & Full-Stack Development
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+### Databases, Infrastructure & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -243,13 +227,17 @@ My_Profile:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibul-shovon&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibul-shovon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170px"/>
+  <!-- Streak card: this is the card that rendered correctly in your screenshot. -->
+  <a href="https://github.com/sakibul-shovon?tab=overview">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sakibul-shovon&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" height="190" />
+  </a>
 
-  <br/>
+  <p>
+    <a href="https://github.com/sakibul-shovon?tab=overview"><img src="https://img.shields.io/badge/Contribution_Graph-View_on_GitHub-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View contribution graph" /></a>
+    <a href="https://github.com/sakibul-shovon?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-Explore-334155?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public repositories" /></a>
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibul-shovon&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" height="170px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibul-shovon&theme=tokyo-night&hide_border=true&area=true" height="170px"/>
+  <p><sub>Live contributions and repository languages are available on GitHub directly. This avoids broken public stats and activity-graph image servers.</sub></p>
 
 </div>
 
@@ -259,52 +247,25 @@ My_Profile:
 
 <div align="center">
 
-### Platform Profiles & Ratings
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_shovon_)
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/_shovon05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sakibul-shovon)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_shovon_)
+[![AtCoder](https://img.shields.io/badge/AtCoder-171717?style=for-the-badge)](https://atcoder.jp/users/_shovon05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sakibul-shovon)
 
 ![Codeforces Rating](https://cp-logo.vercel.app/codeforces/_shovon_)
 ![AtCoder Rating](https://cp-logo.vercel.app/atcoder/_shovon05)
 
-</div>
-
 <table align="center">
-<tr>
-<td align="center">
-
-**Problem Solving**
-- 1000+ Problems Solved
-- Active on Multiple Judges
-- Algorithm Enthusiast
-
-</td>
-<td align="center">
-
-**Contest Highlights**
-- ICPC Dhaka Regional 2025
-- BUBT IUCPC 2025
-- AUST IUPC 2025
-- NCPC Onsite 2023
-
-</td>
-<td align="center">
-
-**Expertise Areas**
-- Dynamic Programming
-- Graph Algorithms
-- Data Structures
-- Problem Analysis
-
-</td>
-</tr>
+  <tr>
+    <th>Problem Solving</th>
+    <th>Contest Experience</th>
+    <th>Core Strengths</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>1,000+</strong> problems solved</td>
+    <td align="center">ICPC Regional 2025, BUBT IUCPC, NCPC</td>
+    <td align="center">Graphs, DP, data structures, algorithms</td>
+  </tr>
 </table>
-
-<div align="center">
-
-### Coding Activity
-*"Consistency is the key to mastery"*
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_shovon_&theme=tokyonight&force_username=true&border_color=1F2328)](https://codeforces.com/profile/_shovon_)
 
@@ -312,34 +273,28 @@ My_Profile:
 
 ---
 
-## Let's Connect!
+## Let's Connect & Collaborate
 
 <div align="center">
+  <p>Open to conversations on AI engineering, product building, responsible AI, applied research, open-source projects, and ambitious startup ideas.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sakibulhassanshovon05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sh_shovon_)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/shovon0005)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibul-hassan-shovon)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shovon-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shovon.cse50@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sakibulhassanshovon05)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sh_shovon_)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shovon0005)
 
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sakibul-shovon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter"/>
+  <a href="https://github.com/sakibul-shovon?tab=followers"><img src="https://img.shields.io/github/followers/sakibul-shovon?label=Followers&style=social" alt="GitHub followers"/></a>
+</div>
+
+### Contribution Snake
+
+<!-- This SVG relies on the existing GitHub Actions-generated `output` branch. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sakibul-shovon/sakibul-shovon/output/github-snake-dark.svg" alt="Animated contribution snake" width="95%" />
 </div>
 
 ---
-
-> *"Code is poetry written in logic. Every algorithm tells a story."* 🚀
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sakibul-shovon&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/sakibul-shovon?label=Followers&style=social)](https://github.com/sakibul-shovon?tab=followers)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sakibul-shovon/sakibul-shovon/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
